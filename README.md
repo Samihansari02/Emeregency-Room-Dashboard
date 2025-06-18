@@ -21,7 +21,7 @@ This interactive Emergency Room (ER) dashboard, built in Power BI, delivers a co
 - Includes heatmaps, bar charts, and slicers with intuitive design and high-contrast colors for better readability.
 
 ## Benefits
-- Holistic View: See key metrics—demographics, wait times, satisfaction scores—in one place.
+- Holistic View: See key metrics - demographics, wait times, satisfaction scores in one place.
 - Data-Driven Insights: Use visual analytics to identify gaps and improve workflows.
 - Operational Improvement: Recognize inefficiencies and take targeted action to optimize ER processes.
 
